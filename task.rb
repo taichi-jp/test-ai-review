@@ -64,3 +64,4 @@ task1.complete
 puts "全てのタスク: #{task_manager.all_tasks.length}"
 puts "未完了のタスク: #{task_manager.pending_tasks.length}"
 puts "完了したタスク: #{task_manager.completed_tasks.length}"
+puts "テストテスト"
