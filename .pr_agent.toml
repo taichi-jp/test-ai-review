@@ -1,0 +1,27 @@
+model = "gpt-4o"
+model_turbo = "gpt-4o"
+fallback_models = ["gpt-4o"]
+
+[pr_reviewer]
+extra_instructions = "answer in Japanese"
+
+[pr_description]
+extra_instructions = "answer in Japanese"
+
+[pr_code_suggestions]
+extra_instructions = "answer in Japanese"
+
+[pr_add_docs]
+extra_instructions = "answer in Japanese"
+
+[pr_questions]
+extra_instructions = "answer in Japanese"
+
+[pr_update_changelog]
+extra_instructions = "answer in Japanese"
+
+[pr_test]
+extra_instructions = "answer in Japanese"
+
+[pr_improve_component]
+extra_instructions = "answer in Japanese"
